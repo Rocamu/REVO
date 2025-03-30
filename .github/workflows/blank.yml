@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>$REVO - White Paper & Info</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      color: #333;
+      line-height: 1.6;
+    }
+    header, footer {
+      background-color: #222;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>$REVO Meme Coin</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>White Paper</h2>
+      <p>Descarga el white paper para conocer en detalle la propuesta y el concepto artístico de $REVO.</p>
+      <p><a href="whitepaper.pdf" target="_blank">Descargar White Paper (PDF)</a></p>
+    </section>
+    <section>
+      <h2>Datos Básicos</h2>
+      <ul>
+        <li><strong>Nombre:</strong> $REVO</li>
+        <li><strong>Concepto:</strong> Pura cultura pop y arte irreverente</li>
+        <li><strong>Utilidad:</strong> Propuesta disruptiva, sin roadmap ni utilidad tradicional</li>
+        <li><strong>Inspiración:</strong> Referencia al fallo Brancusi ("If it serves for something… it’s not art")</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 $REVO. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
